@@ -1,0 +1,2 @@
+E:\Unity_Games\One_Day_Game\obj\Release\Assembly-CSharp.csproj.AssemblyReference.cache
+E:\Unity_Games\One_Day_Game\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
